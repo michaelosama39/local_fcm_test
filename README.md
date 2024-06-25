@@ -3,7 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
-## Flutter SKD Version 3.13.5
+## Flutter SDK Version 3.13.5
 
 This project is a starting point for a Flutter application.
 
