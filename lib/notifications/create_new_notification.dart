@@ -22,6 +22,7 @@ Future<void> createNewNotification() async {
           'https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png',
       notificationLayout: NotificationLayout.BigPicture,
       payload: {'notificationId': '1234567890'},
+      customSound: "resource://raw/simple_notification",
     ),
     actionButtons: [
       NotificationActionButton(

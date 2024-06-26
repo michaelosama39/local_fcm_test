@@ -23,6 +23,7 @@ class NotificationController {
               channelName: 'Alerts',
               channelDescription: 'Notification tests as alerts',
               playSound: true,
+              soundSource: "resource://raw/simple_notification",
               onlyAlertOnce: true,
               groupAlertBehavior: GroupAlertBehavior.Children,
               importance: NotificationImportance.High,
